@@ -1,4 +1,4 @@
-const serverUrl = "http://127.0.0.1:5000/";
+const serverUrl = "https://minor-project1-56c7c8f2d1fd.herokuapp.com/";
 export async function POST(request: Request) {
   try {
     // Data to send in the request body
