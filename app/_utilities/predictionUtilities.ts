@@ -1,4 +1,4 @@
-let host = "http://localhost:3001";
+let host = "https://nusselt-number-predictor-frontend.vercel.app";
 export const predictData = async (payload: any) => {
   const options = {
     headers: {
