@@ -52,7 +52,7 @@ export default function Home() {
     setPredictionResult(null);
   };
   return (
-    <div className="flex min-h-screen w-full items-center justify-start bg-white">
+    <div className="flex min-h-screen w-full items-center justify-start bg-white p-4">
       <div className="mx-auto w-full max-w-lg">
         <h1 className="text-4xl font-medium">Nusselt Number Predictor</h1>
         <p className="mt-3">
